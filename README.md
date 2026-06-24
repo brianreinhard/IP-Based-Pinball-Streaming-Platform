@@ -6,7 +6,7 @@ This project was built to solve a specific problem:
 Professional wireless video systems capable of supporting
 multiple cameras often cost between **$2,000 and $3,000**.
 
-By combining readily-available consumer networking equipment, Android phones,
+By combining readily-available consumer networking equipment, Android smartphones,
 and open-source software, I was able to create a reliable, high quality
 multi-camera production platform for a fraction of the cost.
 
