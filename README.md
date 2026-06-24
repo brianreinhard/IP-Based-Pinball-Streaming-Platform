@@ -1,7 +1,6 @@
 # RTSP-Based-Pinball-Streaming-System
 
-## A portable multi-camera livestreaming platform designed for
-competitive pinball tournaments.
+## A portable multi-camera livestreaming platform designed for competitive pinball tournaments.
 
 This project was built to solve a specific problem:
 
