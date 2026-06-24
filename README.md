@@ -29,7 +29,7 @@ The system must:
 
 **Why not wireless HDMI?** 
 
-Commercial wireless HDMI solutions were considered. While devices such as Accsoon's CineView line of HDMI transceivers do offer better image quality, the cost savings of an IP-based video streaming solution makes the project extremely accessible to individuals wishing to broadcast pinball events on a budget. The used smartphone market is saturated with devices capable of capturing 1080p/60fps video which can be had for as little as $40. 
+Commercial wireless HDMI solutions were considered. While devices such as Accsoon's CineView line of HDMI transceivers do offer better image quality, the cost savings of an IP-based video streaming solution makes the project extremely accessible to individuals wishing to broadcast pinball events on a budget. The used smartphone market is saturated with devices capable of capturing 1080p/60fps video which can be had for as little as $40. HDMI solutions also require physical cabling from each receiver to the streaming computer, adding more time for setup and requiring much more consideration in the placement of equipment. With an IP-based wireless solution, the streaming computer does not require any actual physical connection to the rest of the system (although I recommend having the streaming computer connected to the router directly via ethernet for the best performance).
 
 
 ## Hardware Requirements
