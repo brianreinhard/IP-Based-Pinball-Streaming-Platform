@@ -38,9 +38,9 @@ Camera frame/rig (insert link to materials/instructions)
 
 **Network Equipment**
 
-Router - GL.iNet Beryl AX
-Access Point - TP-Link EAP225
-WiFi Bridge - Ubiquiti NanoStation loco M5
+Router - GL.iNet Beryl AX  
+Access Point - TP-Link EAP225  
+WiFi Bridge - Ubiquiti NanoStation loco M5  
 Cat5e/6 cables
 
 **Cameras**
