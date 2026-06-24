@@ -27,6 +27,3 @@ Include:
 - Phone mounts
 - Battery banks
 
-## Cost Analysis
-
-Typical total system cost is hundreds of dollars less than comparable multi-camera wireless HDMI solutions.
