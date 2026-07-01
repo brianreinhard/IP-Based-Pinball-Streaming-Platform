@@ -63,3 +63,6 @@ Just about any USB battery bank will do the job. I use 3 of these: https://a.co/
 
 3x adjustable clamp-on smartphone mounts. I use 3 of these: https://a.co/d/07ltgu3E  
 
+**Example Network Diagram**
+
+![Network](network_diagram.jpg)
