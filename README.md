@@ -65,4 +65,4 @@ Just about any USB battery bank will do the job. I use 3 of these: https://a.co/
 
 **Example Network Diagram**
 
-![Network](network_diagram.jpg)
+![Network](/diagrams/network_diagram.jpg)
